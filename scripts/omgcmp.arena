@@ -1,0 +1,88 @@
+{
+map		"omg_tutorial"
+longname	"OpenArena Tutorial"
+bots		"skelebot"
+fraglimit	"5"
+special		"Training"
+}
+{
+map		"omg_mx4dm1"
+longname	"q3dm6ish Remixed"
+bots		"sergei kyonshi grism sergei major"
+fraglimit	"15"
+type		"ffa lms tourney"
+}
+{
+map		"omg_mx4dm1_alt1"
+longname	"q3dm6ish Remixed"
+bots		"sergei kyonshi grism sergei major"
+fraglimit	"15"
+type		"ffa lms tourney"
+}
+{
+map		"omg_outerfac"
+longname	"Outer Training Facility"
+bots		"assassin"
+fraglimit	"10"
+type		"ffa lms tourney"
+}
+{
+map		"omg_pillarpanic"
+longname	"Pillar Panic"
+bots		"kyonshi sarge sorceress s_marine merman"
+fraglimit	"30"
+type		"ffa team lms tourney elimination"
+}
+{
+map		"omg_pyr"
+longname	"a pyramid?"
+bots		"sorceress"
+fraglimit	"15"
+type		"ffa lms tourney team"
+}
+
+{
+map		"omg_q3dm17"
+longname	"q3dm17 Redux"
+bots		"ghost grunt penguin"
+fraglimit	"20"
+type		"ffa tourney team"
+}
+{
+map             "omg_rpg3dm2"
+longname        "Trial by Error"
+bots            "grunt ranger"
+timelimit       "10"
+type            "tourney ffa"
+}
+//CTF maps
+{
+map		"omg_dq3-79drgc2"
+longname	"Concrete Salvation"
+type		"ctf"
+}
+{
+map		"omg_gliesectf"
+longname	"Gliese581"
+type		"ctf ctfelimination"
+}
+{
+map		"omg_speed"
+longname	"GoDs Speed"
+type		"ctf oneflag harvester overload elimination ctfelimination dd"
+}
+{
+map		"omg_ps37ctf_cg"
+longname	"ps37ctf Redux"
+type		"ctf oneflag harvester overload elimination ctfelimination dd"
+}
+{
+map		"omg_sago2"
+longname	"Sago's Outer Castle (Day)"
+type		"ctf oneflag harvester overload elimination ctfelim ctfelimination dd pos"
+}
+{
+map             "omg_tourney6ish"
+longname        "Across Space"
+type            "ctf ctfelimination"
+}
