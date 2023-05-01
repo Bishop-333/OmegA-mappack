@@ -49,6 +49,11 @@ type            "tourney ffa"
 }
 //CTF maps
 {
+map		"omg_dq3-79drgc2"
+longname	"Concrete Salvation"
+type		"ctf"
+}
+{
 map		"omg_gliesectf"
 longname	"Gliese581"
 type		"ctf ctfelimination"
