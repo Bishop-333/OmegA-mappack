@@ -6,6 +6,13 @@ fraglimit	"5"
 special		"Training"
 }
 {
+map             "omg_map002f"
+longname        "Fragging Yard"
+bots            "jenna cyber-garg"
+timelimit       "10"
+type            "tourney ffa"
+}
+{
 map		"omg_mx4dm1"
 longname	"q3dm6ish Remixed"
 bots		"sergei kyonshi grism sergei major"
@@ -52,11 +59,6 @@ type            "tourney ffa"
 map		"omg_dq3-79drgc2"
 longname	"Concrete Salvation"
 type		"ctf"
-}
-{
-map		"omg_gliesectf"
-longname	"Gliese581"
-type		"ctf ctfelimination"
 }
 {
 map		"omg_speed"
