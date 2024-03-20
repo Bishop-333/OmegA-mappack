@@ -33,11 +33,6 @@ longname	"Lava Arena (CTF version)"
 type		"ctf oneflag harvester overload elimination ctfelimination dd"
 }
 {
-map		"omg_speed"
-longname	"GoDs Speed"
-type		"ctf oneflag harvester overload elimination ctfelimination dd"
-}
-{
 map		"omg_sago2"
 longname	"Sago's Outer Castle (Day)"
 type		"ctf oneflag harvester overload elimination ctfelim ctfelimination dd pos"
