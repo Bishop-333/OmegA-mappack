@@ -14,13 +14,13 @@ textures/dsi/weapspawn01
 
 textures/dsi/dsiglass
 {
-	qer_editorimage textures/dsi/dsiglass2.tga
+	qer_editorimage textures/dsi/dsiglass.tga
 	surfaceparm trans
 	cull disable
 	qer_trans 0.5
 
 	{
-		map textures/dsi/dsiglass2.tga
+		map textures/dsi/dsiglass.tga
 		blendfunc add
 		//rgbGen vertex
 		tcgen environment
