@@ -5,7 +5,7 @@ textures/dsi/weapspawn01
 	surfaceparm pointlight
 	nopicmip
 	{
-		clampmap textures/dsi/weapspawn01.tga
+		clampmap textures/dsi/weapspawn01
 		blendfunc add
 		rgbGen Vertex
 		tcMod rotate 45
@@ -14,13 +14,13 @@ textures/dsi/weapspawn01
 
 textures/dsi/dsiglass
 {
-	qer_editorimage textures/dsi/dsiglass.tga
+	qer_editorimage textures/dsi/dsiglass
 	surfaceparm trans
 	cull disable
 	qer_trans 0.5
 
 	{
-		map textures/dsi/dsiglass.tga
+		map textures/dsi/dsiglass
 		blendfunc add
 		//rgbGen vertex
 		tcgen environment
@@ -35,7 +35,7 @@ textures/dsi/cmp1_logo
 	surfaceparm pointlight
 	nopicmip
 	{
-		map textures/dsi/cmp1_logo.tga
+		map textures/dsi/cmp1_logo
 		blendfunc add
 		rgbGen Vertex
 	}

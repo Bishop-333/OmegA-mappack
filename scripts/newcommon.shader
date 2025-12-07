@@ -60,7 +60,7 @@ textures/common/teleporter
 {
 	surfaceparm nolightmap
 	surfaceparm noimpact
-	q3map_lightimage textures/liquids/tele.tga
+	q3map_lightimage textures/liquids/tele
 }
 
 textures/common/noimpact
