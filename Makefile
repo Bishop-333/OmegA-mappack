@@ -22,7 +22,7 @@ endif
 OUTPUT_DIR := build
 PK3_DIR := $(OUTPUT_DIR)/pk3
 
-OMEGA_PK3 = z_omgmp-v4.5.pk3
+OMEGA_PK3 = z_omgmp-v4.5.1.pk3
 
 release: $(OUTPUT_DIR) 
 	find . -name ".DS_Store" -print -delete
